@@ -1,0 +1,23 @@
+body{
+  background-color: #d3e0dc;
+}
+h1{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+table,th,td{
+  border: 5px solid #8ab6d6;
+  border-radius: 2px;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+#it{
+  background-color: #e4fbff;
+}
+.subj{
+  text-align: left;
+}
+#etc{
+  background-color:#a3d8f4;
+}
